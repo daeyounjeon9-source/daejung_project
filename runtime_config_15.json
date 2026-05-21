@@ -1,0 +1,7 @@
+{
+  "runtime": "active",
+  "quantumSync": true,
+  "security": "maximum",
+  "nodes": 4096,
+  "expansion": "enabled"
+}

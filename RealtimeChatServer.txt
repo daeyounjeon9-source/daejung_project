@@ -1,0 +1,5 @@
+Socket.IO Server Structure
+- realtime messaging
+- moderation
+- donation message
+- admin control

@@ -1,0 +1,14 @@
+
+DNX DEPLOYMENT FINAL GUIDE
+
+1. 압축해제
+2. frontend -> npm install -> npm run dev
+3. backend -> npm install -> npm run dev
+4. MongoDB Atlas 연결
+5. Vercel frontend 배포
+6. Render backend 배포
+7. OpenAI API 연결
+8. git push 자동배포 설정
+
+중요:
+frontend API 주소를 실제 backend 주소로 변경해야 함.

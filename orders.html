@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Order Management</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Pretendard', sans-serif;
+}
+
+body{
+    background:#020617;
+    color:white;
+    overflow-x:hidden;
+}
+
+/* 배경 */
+
+.bg1{
+    position:fixed;
+    width:800px;
+    height:800px;
+    background:#2563eb;
+    filter:blur(300px);
+    opacity:0.08;
+    top:-300px;
+    right:-300px;
+    z-index:-1;
+}
+
+.bg2{
+    position:fixed;
+    width:700px;
+    height:700px;
+    background:#7c3aed;
+    filter:blur(260px);
+    opacity:0.06;
+    bottom:-250px;
+    left:-250px;
+    z-index:-1;
+}
+
+/* 사이드바 */
+
+.sidebar{
+    position:fixed;
+    left:0;
+    top:0;
+    width:270px;
+    height:100vh;
+    background:rgba(8,12,24,0.95);
+    backdrop-filter:blur(18px);
+    border-right:1px solid rgba(255,255,255,0.05);
+    padding:28px 20px;
+}
+
+.logo{
+    font-size:34px;
+    font-weight:900;
+    margin-bottom:55px;
+}
+
+.menu-item{
+    width:100%;
+    padding:16px 18px;
+    border-radius:18px;
+    margin-bottom:12px;
+    cursor:pointer;
+    transition:0.3s;
+    color:#cbd5e1;
+}
+
+.menu-item:hover{
+    background:#1e293b;
+}
+
+.active{
+    background:linear-gradient(135deg,#2563eb,#3b82f6);
+    color:white;
+}
+
+/* 메인 */
+
+.main{
+    margin-left:270px;
+    padding:35px;
+}
+
+.topbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:30px;
+    flex-wrap:wrap;
+    gap:20px;
+}
+
+.page-title{
+    font-size:44px;
+    font-weight:900;
+}
+
+.search{
+    background:#111827;
+    border:none;
+    padding:14px 18px;
+    border-radius:16px;
+    color:white;
+    width:260px;
+}
+
+/* 카드 */
+
+.card{
+    background:rgba(15,23,42,0.92);
+    border:1px solid rgba(255,255,255,0.06);
+    border-radius:30px;
+    padding:28px;
+    backdrop-filter:blur(16px);
+}
+
+/* 주문리스트 */
+
+.order-item{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:22px 0;
+    border-bottom:1px solid rgba(255,255,255,0.05);
+    flex-wrap:wrap;
+    gap:20px;
+}
+
+.order-left{
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+}
+
+.order-name{
+    font-size:20px;
+    font-weight:700;
+}
+
+.order-email{
+    color:#94a3b8;
+}
+
+.order-right{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    flex-wrap:wrap;
+}
+
+.price{
+    font-size:22px;
+    font-weight:900;
+    color:#60a5fa;
+}
+
+.status{
+    padding:8px 14px;
+    border-radius:999px;
+    font-size:14px;
+    font-weight:700;
+}
+
+.success{
+    background:#14532d;
+    color:#4ade80;
+}
+
+.wait{
+    background:#3f3f46;
+    color:#e4e4e7;
+}
+
+.cancel{
+    background:#450a0a;
+    color:#f87171;
+}
+
+.action-btn{
+    border:none;
+    background:#1e293b;
+    color:white;
+    padding:10px 16px;
+    border-radius:12px;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+.action-btn:hover{
+    background:#2563eb;
+}
+
+/* 모바일 */
+
+@media(max-width:768px){
+
+    .sidebar{
+        width:100%;
+        height:auto;
+        position:relative;
+    }
+
+    .main{
+        margin-left:0;
+        padding:22px;
+    }
+
+    .order-item{
+        flex-direction:column;
+        align-items:flex-start;
+    }
+
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="bg1"></div>
+<div class="bg2"></div>
+
+<!-- 사이드 -->
+
+<div class="sidebar">
+
+    <div class="logo">
+        LIVON
+    </div>
+
+    <div class="menu-item">
+        Dashboard
+    </div>
+
+    <div class="menu-item">
+        Analytics
+    </div>
+
+    <div class="menu-item">
+        Users
+    </div>
+
+    <div class="menu-item active">
+        Orders
+    </div>
+
+    <div class="menu-item">
+        Payments
+    </div>
+
+    <div class="menu-item">
+        Settings
+    </div>
+
+</div>
+
+<!-- 메인 -->
+
+<div class="main">
+
+    <div class="topbar">
+
+        <div class="page-title">
+            Order Management
+        </div>
+
+        <input type="text"
+        class="search"
+        placeholder="주문 검색">
+
+    </div>
+
+    <!-- 주문 카드 -->
+
+    <div class="card">
+
+        <!-- 주문 -->
+
+        <div class="order-item">
+
+            <div class="order-left">
+
+                <div class="order-name">
+                    Premium Membership
+                </div>
+
+                <div class="order-email">
+                    김민준 · minjun@email.com
+                </div>
+
+            </div>
+
+            <div class="order-right">
+
+                <div class="price">
+                    ₩129,000
+                </div>
+
+                <div class="status success">
+                    결제완료
+                </div>
+
+                <button class="action-btn">
+                    상세보기
+                </button>
+
+            </div>
+
+        </div>
+
+        <!-- 주문 -->
+
+        <div class="order-item">
+
+            <div class="order-left">
+
+                <div class="order-name">
+                    VIP Subscription
+                </div>
+
+                <div class="order-email">
+                    이서연 · seoyeon@email.com
+                </div>
+
+            </div>
+
+            <div class="order-right">
+
+                <div class="price">
+                    ₩189,000
+                </div>
+
+                <div class="status wait">
+                    대기중
+                </div>
+
+                <button class="action-btn">
+                    승인하기
+                </button>
+
+            </div>
+
+        </div>
+
+        <!-- 주문 -->
+
+        <div class="order-item">
+
+            <div class="order-left">
+
+                <div class="order-name">
+                    Enterprise Plan
+                </div>
+
+                <div class="order-email">
+                    박지훈 · jihun@email.com
+                </div>
+
+            </div>
+
+            <div class="order-right">
+
+                <div class="price">
+                    ₩249,000
+                </div>
+
+                <div class="status cancel">
+                    주문취소
+                </div>
+
+                <button class="action-btn">
+                    기록보기
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+
+CLOUD SYSTEM STRUCTURE
+
+- AWS
+- Cloudflare
+- Firebase
+- MongoDB Atlas
+
+Scaling:
+- Auto Deploy
+- Global Backup
+- CDN Replication

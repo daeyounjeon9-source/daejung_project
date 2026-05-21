@@ -1,0 +1,7 @@
+Apply To Every Page
+- AI greeting
+- navbar
+- notification
+- footer
+- support button
+- profile access

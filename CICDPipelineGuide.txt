@@ -1,0 +1,6 @@
+Automation
+- CI/CD
+- Auto Deploy
+- Auto Test
+- Health Check
+- Auto Recovery

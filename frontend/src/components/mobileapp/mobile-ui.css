@@ -1,0 +1,28 @@
+
+.stream-control-panel,
+.coin-donation-panel,
+.ai-recommendation{
+  background:rgba(15,23,42,.85);
+  border:1px solid rgba(255,255,255,.08);
+  border-radius:24px;
+  padding:30px;
+  color:white;
+  backdrop-filter:blur(18px);
+}
+
+.coin-card{
+  margin-top:16px;
+  padding:18px;
+  border-radius:18px;
+  background:linear-gradient(90deg,#2563eb,#7c3aed);
+}
+
+button{
+  margin-top:14px;
+  margin-right:10px;
+  padding:14px 24px;
+  border:none;
+  border-radius:16px;
+  background:#2563eb;
+  color:white;
+}

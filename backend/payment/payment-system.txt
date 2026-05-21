@@ -1,0 +1,12 @@
+
+PAYMENT SYSTEM FLOW
+
+1. User Purchase Coin
+2. Secure Payment Gateway
+3. Wallet Balance Update
+4. Donation Processing
+5. Creator Revenue Sync
+
+Future:
+- Crypto Payment
+- Subscription Billing

@@ -1,0 +1,74 @@
+"use client";
+
+import { useState, useEffect } from "react";
+import { db } from "../firebase"; // Firebase 연결
+import { collection, addDoc, onSnapshot, query, orderBy } from "firebase/firestore";
+
+export default function Home() {
+
+  const [posts, setPosts] = useState([]);
+  const [text, setText] = useState("");
+
+  // --- Firestore 실시간 구독 ---
+  useEffect(() => {
+    const q = query(collection(db, "posts"), orderBy("timestamp", "desc"));
+    const unsubscribe = onSnapshot(q, (snapshot) => {
+      setPosts(snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() })));
+    });
+    return () => unsubscribe();
+  }, []);
+
+  // --- 게시글 등록 ---
+  const addPost = async () => {
+    if (!text) return;
+
+    await addDoc(collection(db, "posts"), {
+      text,
+      user: "사용자", // 실제 로그인 유저 이름으로 바꿀 수 있음
+      timestamp: Date.now()
+    });
+
+    setText("");
+  };
+
+  return (
+    <main style={{ maxWidth:"700px", margin:"auto", padding:"20px" }}>
+
+      <h1>🚀 AI 커뮤니티</h1>
+
+      {/* 게시글 입력 */}
+      <input
+        value={text}
+        onChange={(e) => setText(e.target.value)}
+        placeholder="게시글 입력"
+        style={{ width:"100%", padding:"12px", marginTop:"20px" }}
+      />
+
+      <button
+        onClick={addPost}
+        style={{ marginTop:"10px", padding:"12px", width:"100%" }}
+      >
+        글 등록
+      </button>
+
+      {/* 게시글 리스트 */}
+      <div style={{ marginTop:"30px" }}>
+        {posts.map(post => (
+          <div
+            key={post.id}
+            style={{
+              border:"1px solid #ccc",
+              padding:"15px",
+              marginBottom:"15px",
+              borderRadius:"10px",
+            }}
+          >
+            <b>{post.user}</b>
+            <p>{post.text}</p>
+          </div>
+        ))}
+      </div>
+
+    </main>
+  );
+}

@@ -1,0 +1,19 @@
+
+SERVER TOPOLOGY
+
+Frontend:
+- Vercel
+- CDN Cache
+
+Backend:
+- Node Cluster
+- Websocket Server
+
+Database:
+- MongoDB Replica
+- Firebase Auth
+
+Security:
+- Firewall
+- API Gateway
+- AI Threat Detection

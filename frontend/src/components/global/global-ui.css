@@ -1,0 +1,29 @@
+
+.ai-assistant-panel,
+.revenue-panel,
+.automation-status{
+  background:rgba(15,23,42,.88);
+  border:1px solid rgba(255,255,255,.08);
+  border-radius:28px;
+  padding:34px;
+  color:white;
+  backdrop-filter:blur(24px);
+}
+
+.assistant-box,
+.revenue-card,
+.status-item{
+  margin-top:18px;
+  padding:18px;
+  border-radius:18px;
+  background:rgba(255,255,255,.05);
+}
+
+.revenue-card{
+  background:
+    linear-gradient(
+      90deg,
+      #2563eb,
+      #7c3aed
+    );
+}

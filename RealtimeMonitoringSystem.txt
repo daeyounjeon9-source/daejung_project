@@ -1,0 +1,6 @@
+Realtime Monitoring
+- server health
+- live traffic
+- stream monitoring
+- error monitoring
+- realtime logs

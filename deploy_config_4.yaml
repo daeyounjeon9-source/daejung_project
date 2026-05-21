@@ -1,0 +1,7 @@
+
+version: '3'
+service:
+  node: 4
+  ai_core: enabled
+  quantum_sync: active
+  expansion: automatic

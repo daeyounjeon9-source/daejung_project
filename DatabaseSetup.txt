@@ -1,0 +1,11 @@
+Recommended:
+- Firebase
+- MongoDB
+- PostgreSQL
+
+Collections:
+users
+streams
+orders
+coins
+chat

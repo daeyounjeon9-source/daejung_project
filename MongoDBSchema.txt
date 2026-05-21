@@ -1,0 +1,9 @@
+Collections:
+users
+admins
+streams
+products
+orders
+coins
+logs
+reports

@@ -1,0 +1,6 @@
+Performance Optimization
+- lazy loading
+- image optimization
+- cache optimization
+- code splitting
+- rendering optimization

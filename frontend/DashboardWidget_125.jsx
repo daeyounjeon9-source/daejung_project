@@ -1,0 +1,1 @@
+export default function Widget125() { return <div>Widget 125</div>; }

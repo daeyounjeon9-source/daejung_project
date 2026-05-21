@@ -1,0 +1,12 @@
+
+AI SECURITY ENGINE
+
+Features:
+- Login Detection
+- Abuse Prevention
+- AI Threat Pattern
+- Real-time Alert
+- Auto Blocking
+
+Goal:
+- Enterprise Security Level

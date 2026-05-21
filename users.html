@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>User Management</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Pretendard', sans-serif;
+}
+
+body{
+    background:#020617;
+    color:white;
+    overflow-x:hidden;
+}
+
+/* 배경 */
+
+.bg1{
+    position:fixed;
+    width:800px;
+    height:800px;
+    background:#2563eb;
+    filter:blur(300px);
+    opacity:0.08;
+    top:-300px;
+    right:-300px;
+    z-index:-1;
+}
+
+.bg2{
+    position:fixed;
+    width:700px;
+    height:700px;
+    background:#7c3aed;
+    filter:blur(260px);
+    opacity:0.06;
+    bottom:-250px;
+    left:-250px;
+    z-index:-1;
+}
+
+/* 사이드 */
+
+.sidebar{
+    position:fixed;
+    left:0;
+    top:0;
+    width:270px;
+    height:100vh;
+    background:rgba(8,12,24,0.95);
+    backdrop-filter:blur(18px);
+    border-right:1px solid rgba(255,255,255,0.05);
+    padding:28px 20px;
+}
+
+.logo{
+    font-size:34px;
+    font-weight:900;
+    margin-bottom:55px;
+}
+
+.menu-item{
+    width:100%;
+    padding:16px 18px;
+    border-radius:18px;
+    margin-bottom:12px;
+    cursor:pointer;
+    transition:0.3s;
+    color:#cbd5e1;
+}
+
+.menu-item:hover{
+    background:#1e293b;
+}
+
+.active{
+    background:linear-gradient(135deg,#2563eb,#3b82f6);
+    color:white;
+}
+
+/* 메인 */
+
+.main{
+    margin-left:270px;
+    padding:35px;
+}
+
+.topbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:30px;
+    flex-wrap:wrap;
+    gap:20px;
+}
+
+.page-title{
+    font-size:44px;
+    font-weight:900;
+}
+
+.search{
+    background:#111827;
+    border:none;
+    padding:14px 18px;
+    border-radius:16px;
+    color:white;
+    width:260px;
+}
+
+/* 카드 */
+
+.card{
+    background:rgba(15,23,42,0.92);
+    border:1px solid rgba(255,255,255,0.06);
+    border-radius:30px;
+    padding:28px;
+    backdrop-filter:blur(16px);
+}
+
+/* 테이블 */
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+th{
+    text-align:left;
+    color:#94a3b8;
+    padding-bottom:18px;
+}
+
+td{
+    padding:18px 0;
+    border-top:1px solid rgba(255,255,255,0.05);
+}
+
+.role{
+    background:#2563eb;
+    padding:8px 14px;
+    border-radius:999px;
+    display:inline-block;
+}
+
+.status{
+    color:#22c55e;
+    font-weight:700;
+}
+
+.action-btn{
+    border:none;
+    background:#1e293b;
+    color:white;
+    padding:10px 16px;
+    border-radius:12px;
+    cursor:pointer;
+    margin-right:8px;
+}
+
+.action-btn:hover{
+    background:#2563eb;
+}
+
+/* 모바일 */
+
+@media(max-width:768px){
+
+    .sidebar{
+        width:100%;
+        height:auto;
+        position:relative;
+    }
+
+    .main{
+        margin-left:0;
+        padding:22px;
+    }
+
+    table{
+        font-size:14px;
+    }
+
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="bg1"></div>
+<div class="bg2"></div>
+
+<!-- 사이드 -->
+
+<div class="sidebar">
+
+    <div class="logo">
+        LIVON
+    </div>
+
+    <div class="menu-item">
+        Dashboard
+    </div>
+
+    <div class="menu-item">
+        Analytics
+    </div>
+
+    <div class="menu-item active">
+        Users
+    </div>
+
+    <div class="menu-item">
+        Orders
+    </div>
+
+    <div class="menu-item">
+        Payments
+    </div>
+
+    <div class="menu-item">
+        Settings
+    </div>
+
+</div>
+
+<!-- 메인 -->
+
+<div class="main">
+
+    <div class="topbar">
+
+        <div class="page-title">
+            User Management
+        </div>
+
+        <input type="text"
+        class="search"
+        placeholder="사용자 검색">
+
+    </div>
+
+    <!-- 사용자 테이블 -->
+
+    <div class="card">
+
+        <table>
+
+            <tr>
+                <th>이름</th>
+                <th>이메일</th>
+                <th>권한</th>
+                <th>상태</th>
+                <th>관리</th>
+            </tr>
+
+            <tr>
+                <td>김민준</td>
+                <td>minjun@email.com</td>
+                <td>
+                    <span class="role">
+                        Premium
+                    </span>
+                </td>
+                <td class="status">
+                    ONLINE
+                </td>
+                <td>
+                    <button class="action-btn">
+                        수정
+                    </button>
+
+                    <button class="action-btn">
+                        삭제
+                    </button>
+                </td>
+            </tr>
+
+            <tr>
+                <td>이서연</td>
+                <td>seoyeon@email.com</td>
+                <td>
+                    <span class="role">
+                        VIP
+                    </span>
+                </td>
+                <td class="status">
+                    ONLINE
+                </td>
+                <td>
+                    <button class="action-btn">
+                        수정
+                    </button>
+
+                    <button class="action-btn">
+                        삭제
+                    </button>
+                </td>
+            </tr>
+
+            <tr>
+                <td>박지훈</td>
+                <td>jihun@email.com</td>
+                <td>
+                    <span class="role">
+                        Enterprise
+                    </span>
+                </td>
+                <td class="status">
+                    ONLINE
+                </td>
+                <td>
+                    <button class="action-btn">
+                        수정
+                    </button>
+
+                    <button class="action-btn">
+                        삭제
+                    </button>
+                </td>
+            </tr>
+
+        </table>
+
+    </div>
+
+</div>
+
+</body>
+</html>

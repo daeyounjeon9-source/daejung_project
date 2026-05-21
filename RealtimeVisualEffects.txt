@@ -1,0 +1,5 @@
+Visual Effects
+- realtime glow
+- animated particles
+- lighting effect
+- dashboard ambience

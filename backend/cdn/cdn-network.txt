@@ -1,0 +1,10 @@
+
+GLOBAL CDN NETWORK
+
+- Cloudflare CDN
+- AWS Edge Network
+- Video Replication
+- Low Latency Streaming
+
+Goal:
+- Worldwide Streaming Stability

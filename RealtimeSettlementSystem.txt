@@ -1,0 +1,6 @@
+Realtime Settlement System
+- realtime revenue calculation
+- seller settlement
+- withdrawal management
+- transaction log
+- auto settlement scheduler

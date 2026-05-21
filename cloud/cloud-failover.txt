@@ -1,0 +1,11 @@
+
+CLOUD FAILOVER SYSTEM
+
+- Multi Region Backup
+- Stream Replication
+- Auto Recovery
+- Global CDN Failover
+- Database Backup
+
+Target:
+- 99.99% Availability

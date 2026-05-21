@@ -1,0 +1,5 @@
+Voice Greeting System
+- welcome greeting
+- page explanation
+- AI narration
+- onboarding flow

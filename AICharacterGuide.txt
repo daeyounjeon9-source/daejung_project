@@ -1,0 +1,6 @@
+AI Character System
+- AI mascot
+- realtime greeting
+- voice assistant
+- onboarding guide
+- interactive support

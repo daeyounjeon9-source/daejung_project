@@ -1,0 +1,5 @@
+Animation System
+- page transition
+- hover effects
+- smooth interaction
+- loading animation

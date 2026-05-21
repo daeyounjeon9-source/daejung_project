@@ -1,0 +1,12 @@
+
+SUBSCRIPTION SYSTEM
+
+1. User Membership
+2. Premium Access
+3. Creator Subscription
+4. Revenue Distribution
+5. Auto Billing
+
+Future:
+- Family Plan
+- Enterprise License

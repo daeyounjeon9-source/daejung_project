@@ -1,0 +1,9 @@
+
+AUTH FLOW
+
+1. Login
+2. JWT Token
+3. Refresh Token
+4. Role Validation
+5. Admin Protection
+6. Session Tracking

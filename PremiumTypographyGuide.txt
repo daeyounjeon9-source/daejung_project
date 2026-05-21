@@ -1,0 +1,5 @@
+Typography
+- large hero titles
+- premium spacing
+- cinematic text hierarchy
+- luxury dashboard sizing

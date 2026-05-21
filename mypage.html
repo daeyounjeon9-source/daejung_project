@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>My Page</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Pretendard', sans-serif;
+}
+
+body{
+    background:#020617;
+    color:white;
+    overflow-x:hidden;
+}
+
+/* 배경 */
+
+.bg1{
+    position:fixed;
+    width:800px;
+    height:800px;
+    background:#2563eb;
+    filter:blur(300px);
+    opacity:0.08;
+    top:-300px;
+    right:-300px;
+    z-index:-1;
+}
+
+.bg2{
+    position:fixed;
+    width:700px;
+    height:700px;
+    background:#7c3aed;
+    filter:blur(260px);
+    opacity:0.06;
+    bottom:-250px;
+    left:-250px;
+    z-index:-1;
+}
+
+/* 사이드바 */
+
+.sidebar{
+    position:fixed;
+    left:0;
+    top:0;
+    width:270px;
+    height:100vh;
+    background:rgba(8,12,24,0.95);
+    backdrop-filter:blur(18px);
+    border-right:1px solid rgba(255,255,255,0.05);
+    padding:28px 20px;
+}
+
+.logo{
+    font-size:34px;
+    font-weight:900;
+    margin-bottom:55px;
+}
+
+.menu-item{
+    width:100%;
+    padding:16px 18px;
+    border-radius:18px;
+    margin-bottom:12px;
+    cursor:pointer;
+    transition:0.3s;
+    color:#cbd5e1;
+}
+
+.menu-item:hover{
+    background:#1e293b;
+}
+
+.active{
+    background:linear-gradient(135deg,#2563eb,#3b82f6);
+    color:white;
+}
+
+/* 메인 */
+
+.main{
+    margin-left:270px;
+    padding:35px;
+}
+
+.topbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:30px;
+    flex-wrap:wrap;
+    gap:20px;
+}
+
+.page-title{
+    font-size:44px;
+    font-weight:900;
+}
+
+.card{
+    background:rgba(15,23,42,0.92);
+    border:1px solid rgba(255,255,255,0.06);
+    border-radius:30px;
+    padding:28px;
+    backdrop-filter:blur(16px);
+    margin-bottom:24px;
+}
+
+.card h3{
+    margin-bottom:18px;
+}
+
+input, button{
+    font-family:'Pretendard', sans-serif;
+}
+
+/* 정보폼 */
+
+.profile-form{
+    display:flex;
+    flex-direction:column;
+    gap:18px;
+}
+
+input[type="text"], input[type="email"], input[type="password"]{
+    padding:14px 18px;
+    border-radius:16px;
+    border:none;
+    background:#111827;
+    color:white;
+}
+
+button{
+    padding:12px 18px;
+    border:none;
+    border-radius:16px;
+    background:#2563eb;
+    color:white;
+    font-weight:700;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#3b82f6;
+}
+
+/* 결제 내역 테이블 */
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+th{
+    text-align:left;
+    color:#94a3b8;
+    padding-bottom:18px;
+}
+
+td{
+    padding:18px 0;
+    border-top:1px solid rgba(255,255,255,0.05);
+}
+
+.status{
+    padding:6px 12px;
+    border-radius:999px;
+    font-weight:700;
+}
+
+.success{
+    background:#14532d;
+    color:#4ade80;
+}
+
+.wait{
+    background:#3f3f46;
+    color:#e4e4e7;
+}
+
+.cancel{
+    background:#450a0a;
+    color:#f87171;
+}
+
+@media(max-width:768px){
+
+    .sidebar{
+        width:100%;
+        height:auto;
+        position:relative;
+    }
+
+    .main{
+        margin-left:0;
+        padding:22px;
+    }
+
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="bg1"></div>
+<div class="bg2"></div>
+
+<!-- 사이드 -->
+
+<div class="sidebar">
+
+    <div class="logo">
+        LIVON
+    </div>
+
+    <div class="menu-item">
+        Dashboard
+    </div>
+
+    <div class="menu-item">
+        Analytics
+    </div>
+
+    <div class="menu-item">
+        Users
+    </div>
+
+    <div class="menu-item active">
+        My Page
+    </div>
+
+    <div class="menu-item">
+        Orders
+    </div>
+
+    <div class="menu-item">
+        Payments
+    </div>
+
+    <div class="menu-item">
+        Settings
+    </div>
+
+</div>
+
+<!-- 메인 -->
+
+<div class="main">
+
+    <div class="topbar">
+
+        <div class="page-title">
+            My Page
+        </div>
+
+    </div>
+
+    <!-- 사용자 정보 -->
+
+    <div class="card">
+
+        <h3>프로필 정보</h3>
+
+        <form class="profile-form">
+
+            <input type="text" placeholder="이름" value="김민준">
+            <input type="email" placeholder="이메일" value="minjun@email.com">
+            <input type="password" placeholder="비밀번호">
+
+            <button type="submit">정보 수정</button>
+
+        </form>
+
+    </div>
+
+    <!-- 결제 내역 -->
+
+    <div class="card">
+
+        <h3>결제 내역</h3>
+
+        <table>
+
+            <tr>
+                <th>상품</th>
+                <th>금액</th>
+                <th>날짜</th>
+                <th>상태</th>
+            </tr>
+
+            <tr>
+                <td>Premium Membership</td>
+                <td>₩129,000</td>
+                <td>2026-05-14</td>
+                <td><span class="status success">결제완료</span></td>
+            </tr>
+
+            <tr>
+                <td>VIP Subscription</td>
+                <td>₩189,000</td>
+                <td>2026-05-13</td>
+                <td><span class="status wait">대기중</span></td>
+            </tr>
+
+            <tr>
+                <td>Enterprise Plan</td>
+                <td>₩249,000</td>
+                <td>2026-05-12</td>
+                <td><span class="status cancel">주문취소</span></td>
+            </tr>
+
+        </table>
+
+    </div>
+
+</div>
+
+</body>
+</html>

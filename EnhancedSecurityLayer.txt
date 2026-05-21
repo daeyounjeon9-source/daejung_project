@@ -1,0 +1,7 @@
+Enhanced Security
+- JWT rotation
+- API rate limit
+- IP blocking
+- admin access protection
+- database encryption
+- DDOS mitigation

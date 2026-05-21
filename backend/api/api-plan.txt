@@ -1,0 +1,16 @@
+
+API STRUCTURE
+
+/auth
+/stream
+/dashboard
+/admin
+/analytics
+/coin
+/security
+
+Realtime:
+- Socket.io
+- Streaming Sync
+- Live Chat
+- Viewer Counter

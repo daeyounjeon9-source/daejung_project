@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>게시판</title>
+</head>
+
+<body>
+
+  <h1>게시판</h1>
+
+  <input
+    type="text"
+    id="searchInput"
+    placeholder="게시글 검색"
+  />
+
+  <br><br>
+
+  <input
+    type="text"
+    id="title"
+    placeholder="제목"
+  />
+
+  <br><br>
+
+  <textarea
+    id="content"
+    placeholder="내용"
+    rows="5"
+    cols="50"
+  ></textarea>
+
+  <br><br>
+
+  <input
+    type="file"
+    id="imageFile"
+  />
+
+  <br><br>
+
+  <button id="postBtn">
+    글 작성
+  </button>
+
+  <h2>게시글 목록</h2>
+
+  <div id="postList"></div>
+
+  <br>
+
+  <button id="goHomeBtn">
+    홈으로
+  </button>
+
+  <script type="module" src="./js/board.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,70 @@
+
+DNX ADVANCED NEXT STEP PACKAGE
+
+[1] JWT 로그인 시스템 추가
+npm install jsonwebtoken bcryptjs
+
+[2] 사용자 인증 Middleware 생성
+
+backend/middleware/auth.js
+
+--------------------------------
+import jwt from "jsonwebtoken";
+
+export const auth = (req,res,next)=>{
+  const token = req.headers.authorization;
+
+  if(!token){
+    return res.status(401).json({
+      message:"Unauthorized"
+    });
+  }
+
+  try{
+    const verified = jwt.verify(
+      token,
+      process.env.JWT_SECRET
+    );
+
+    req.user = verified;
+    next();
+
+  }catch(err){
+    res.status(401).json({
+      message:"Invalid Token"
+    });
+  }
+};
+--------------------------------
+
+[3] 프론트 axios 설치
+npm install axios
+
+[4] Zustand 설치
+npm install zustand
+
+[5] Tailwind 최적화
+npm install -D tailwindcss postcss autoprefixer
+
+[6] AI 채팅 API 구조 생성
+
+/api/chat
+
+[7] 관리자 페이지 구조 추천
+/admin
+/admin/users
+/admin/analytics
+/admin/settings
+
+[8] 추천 배포 구조
+Frontend : Vercel
+Backend : Render
+Database : MongoDB Atlas
+CDN : Cloudflare
+
+[9] 다음 추천 단계
+- 실시간 차트
+- WebSocket
+- Stripe 결제
+- Electron 데스크탑 앱
+- 모바일 PWA

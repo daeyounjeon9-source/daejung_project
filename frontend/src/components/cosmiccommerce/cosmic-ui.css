@@ -1,0 +1,29 @@
+
+.cosmos-core,
+.ai-harmony,
+.eternal-stream{
+  background:rgba(15,23,42,1);
+  border:1px solid rgba(255,255,255,.08);
+  border-radius:42px;
+  padding:48px;
+  color:white;
+  backdrop-filter:blur(44px);
+}
+
+.cosmos-card,
+.harmony-box,
+.eternal-item{
+  margin-top:22px;
+  padding:22px;
+  border-radius:24px;
+  background:rgba(255,255,255,.05);
+}
+
+.cosmos-card{
+  background:
+    linear-gradient(
+      90deg,
+      #2563eb,
+      #7c3aed
+    );
+}

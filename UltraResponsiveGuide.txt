@@ -1,0 +1,5 @@
+Responsive System
+- mobile premium UI
+- tablet optimization
+- ultra wide monitor support
+- adaptive layout

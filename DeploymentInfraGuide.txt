@@ -1,0 +1,7 @@
+Production Deployment
+- Ubuntu Server
+- Nginx
+- PM2
+- HTTPS
+- CDN
+- Auto Backup

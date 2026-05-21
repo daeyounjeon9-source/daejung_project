@@ -1,0 +1,12 @@
+
+SOCKET SYSTEM
+
+Features:
+- Real-time Live Chat
+- Viewer Counter
+- Stream Status Sync
+- Admin Alert Push
+
+Recommended:
+- socket.io
+- websocket fallback

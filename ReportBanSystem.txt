@@ -1,0 +1,5 @@
+Moderation System
+- User Report
+- Stream Report
+- Auto Ban
+- Admin Review

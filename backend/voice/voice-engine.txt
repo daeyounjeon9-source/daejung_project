@@ -1,0 +1,11 @@
+
+VOICE AI ENGINE
+
+Features:
+- Voice Recognition
+- AI Command Detection
+- Broadcast Voice Control
+- Smart Voice Automation
+
+Future:
+- Multi Language Voice AI

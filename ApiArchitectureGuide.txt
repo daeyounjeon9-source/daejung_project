@@ -1,0 +1,5 @@
+REST API Architecture
+- Express Router
+- Axios Client
+- Unified Response Structure
+- Error Handling

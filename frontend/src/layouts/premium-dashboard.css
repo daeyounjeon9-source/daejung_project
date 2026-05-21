@@ -1,0 +1,20 @@
+
+.live-chat-panel,
+.admin-monitor,
+.realtime-chart{
+  background:rgba(15,23,42,.8);
+  border:1px solid rgba(255,255,255,.08);
+  border-radius:24px;
+  padding:30px;
+  color:white;
+  backdrop-filter:blur(20px);
+}
+
+.monitor-card,
+.chat-message,
+.chart-placeholder{
+  margin-top:15px;
+  padding:16px;
+  border-radius:16px;
+  background:rgba(255,255,255,.05);
+}

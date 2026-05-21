@@ -1,0 +1,6 @@
+Upload System
+- Multer
+- Cloudinary
+- Firebase Storage
+- Thumbnail Upload
+- Video Upload

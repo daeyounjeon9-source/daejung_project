@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LIVON Dashboard</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="dashboard-container">
+    <header>
+      <h1 id="welcome">환영합니다!</h1>
+      <button id="logoutBtn">로그아웃</button>
+    </header>
+
+    <section class="actions">
+      <h2>활동 메뉴</h2>
+      <div class="action-buttons">
+        <button onclick="goToShop()">홈쇼핑</button>
+        <button onclick="goToMining()">코인 채굴</button>
+        <button onclick="goToLive()">라이브커머스</button>
+        <button onclick="goToAccounting()">회계</button>
+      </div>
+    </section>
+
+    <section class="statistics">
+      <h2>통계</h2>
+      <div id="stats-container">
+        <p>총 회원 수: <span id="totalUsers">0</span></p>
+        <p>채굴 진행량: <span id="miningProgress">0</span></p>
+        <p>오늘 판매량: <span id="salesToday">0</span></p>
+      </div>
+    </section>
+  </div>
+
+  <script type="module" src="js/dashboard.js"></script>
+</body>
+</html>

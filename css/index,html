@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Livon 프로젝트</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+  <h1>Livon</h1>
+  <div id="userInfo">안녕하세요, 테스트 사용자님</div>
+
+  <!-- 게시글 작성 -->
+  <textarea id="text" placeholder="게시글 입력"></textarea>
+  <input type="file" id="postImage">
+  <img id="previewImage" style="display:none; max-width:100%; margin-top:5px;">
+  <button onclick="writePost()">게시글 등록</button>
+
+  <hr>
+
+  <!-- 알림 -->
+  <div id="notification"></div>
+  <div id="notificationList"></div>
+
+  <!-- 게시글 목록 -->
+  <div id="list"></div>
+
+  <hr>
+
+  <!-- AI 테스트 -->
+  <div id="aiBox">
+    <input type="text" id="aiInput" placeholder="AI에게 질문">
+    <button onclick="askAI()">질문</button>
+    <div id="aiResult"></div>
+  </div>
+</div>
+
+<script type="module">
+// --- 임시 데이터 구조 ---
+let posts = [];
+
+// --- 알림 ---
+const notificationEl = document.getElementById("notification");
+const notificationListEl = document.getElementById("notificationList");
+function showNotification(msg, postId) {
+  notificationEl.innerText = msg;
+  notificationEl.style.display = "block";
+  setTimeout(() => notificationEl.style.display = "none", 3000);
+
+  const div = document.createElement("div");
+  div.innerText = msg;
+  div.onclick = () => {
+    if (!postId) return;
+    const post = document.getElementById(`post-${postId}`);
+    if (post) post.scrollIntoView({ behavior: "smooth" });
+  };
+  notificationListEl.prepend(div);
+  if (notificationListEl.children.length > 10) notificationListEl.removeChild(notificationListEl.lastChild);
+}
+
+// --- 이미지 미리보기 ---
+document.getElementById("postImage").onchange = e => {
+  const file = e.target.files[0];
+  if (file) {
+    const preview = document.getElementById("previewImage");
+    preview.src = URL.createObjectURL(file);
+    preview.style.display = "block";
+  }
+};
+
+// --- 게시글 작성 ---
+function writePost() {
+  const text = document.getElementById("text").value;
+  const imageFile = document.getElementById("postImage").files[0];
+
+  if (!text) return alert("게시글을 입력하세요.");
+
+  let imageURL = "";
+  if (imageFile) {
+    imageURL = URL.createObjectURL(imageFile);
+  }
+
+  const id = Date.now();
+  posts.unshift({ id, text, imageURL, likes: 0, comments: [] });
+  document.getElementById("text").value = "";
+  document.getElementById("postImage").value = "";
+  document.getElementById("previewImage").style.display = "none";
+
+  renderPosts();
+  showNotification("게시글 등록 완료!", id);
+}
+
+// --- 게시글 렌더링 ---
+function renderPosts() {
+  const listEl = document.getElementById("list");
+  listEl.innerHTML = "";
+  posts.forEach(post => {
+    const div = document.createElement("div");
+    div.id = `post-${post.id}`;
+    div.classList.add("post");
+    div.innerHTML = `
+      <b>테스트 사용자</b><br>
+      ${post.text}<br>
+      ${post.imageURL ? `<img src="${post.imageURL}">` : ""}
+      <p>👍 좋아요 ${post.likes}</p>
+      <button onclick="likePost(${post.id})">좋아요</button><br>
+      <input id="comment-${post.id}" placeholder="댓글 입력">
+      <button onclick="addComment(${post.id})">댓글</button>
+      <div id="comments-${post.id}">
+        ${post.comments.map(c => `<div class="comment">${c}</div>`).join("")}
+      </div>
+    `;
+    listEl.appendChild(div);
+  });
+}
+
+// --- 좋아요 ---
+function likePost(id) {
+  const post = posts.find(p => p.id === id);
+  post.likes++;
+  renderPosts();
+  showNotification("좋아요 +1", id);
+}
+
+// --- 댓글 ---
+function addComment(id) {
+  const input = document.getElementById(`comment-${id}`);
+  const text = input.value.trim();
+  if (!text) return;
+  const post = posts.find(p => p.id === id);
+  post.comments.push(`테스트 사용자: ${text}`);
+  renderPosts();
+  input.value = "";
+  showNotification("댓글 작성 완료!", id);
+}
+
+// --- AI 테스트 (더미) ---
+function askAI() {
+  const input = document.getElementById("aiInput").value;
+  if (!input) return;
+  document.getElementById("aiResult").innerText = `AI 답변: "${input}"에 대한 더미 답변`;
+  showNotification("AI 답변 생성 완료!");
+}
+</script>
+
+</body>
+</html>

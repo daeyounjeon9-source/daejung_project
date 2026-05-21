@@ -1,0 +1,15 @@
+
+VERCEL DEPLOYMENT
+
+1. npm install
+2. npm run build
+3. vercel deploy
+
+Backend:
+- Render
+- Railway
+- AWS
+
+Recommended:
+- Cloudflare CDN
+- Firebase Auth

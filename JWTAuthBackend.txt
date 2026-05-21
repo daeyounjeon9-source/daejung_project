@@ -1,0 +1,5 @@
+JWT Authentication Flow
+- access token
+- refresh token
+- admin role
+- protected api

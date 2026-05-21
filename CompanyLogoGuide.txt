@@ -1,0 +1,6 @@
+Company Logo Integration
+- top navbar logo
+- splash logo
+- mobile icon
+- favicon
+- animated logo

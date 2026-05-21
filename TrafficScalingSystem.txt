@@ -1,0 +1,5 @@
+High Traffic Architecture
+- Redis Cache
+- Queue System
+- Load Balancer
+- Session Scaling
