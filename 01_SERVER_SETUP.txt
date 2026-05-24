@@ -1,0 +1,11 @@
+[ REAL SERVER ]
+
+- Ubuntu 22.04 VPS
+- Docker
+- Docker Compose
+- Nginx
+- HTTPS SSL
+- PM2
+- PostgreSQL
+- Redis
+- CDN

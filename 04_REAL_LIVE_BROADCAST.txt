@@ -1,0 +1,15 @@
+[ REAL LIVE ]
+
+필요:
+- OBS Studio
+- RTMP Server
+- HLS Streaming
+
+연결:
+OBS → RTMP → WEB PLAYER
+
+구성:
+- 실시간 채팅
+- LIVE 상품 연결
+- LIVE 저장
+- 방송 스케줄

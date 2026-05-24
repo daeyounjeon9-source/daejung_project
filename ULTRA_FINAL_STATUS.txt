@@ -1,0 +1,9 @@
+DAEJUNG NEXT ULTRA OPERATION PACK
+
+포함:
+- AI HOST 확장 구조
+- LIVE 쇼핑 운영 패널
+- 글로벌 운영 ENV
+- 실시간 운영 로그 구조
+- AI 추천 API 구조
+- 관리자 매출 통합 구조

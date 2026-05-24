@@ -1,0 +1,18 @@
+[ REAL API KEY ]
+
+필요 KEY:
+- OpenAI API KEY
+- Google OAuth KEY
+- Firebase KEY
+- SMTP KEY
+- AWS S3 KEY
+- PG Payment KEY
+
+.env 예시:
+
+OPENAI_API_KEY=
+JWT_SECRET=
+DATABASE_URL=
+REDIS_URL=
+SMTP_USER=
+SMTP_PASS=

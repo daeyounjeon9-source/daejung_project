@@ -1,0 +1,12 @@
+FINAL GLOBAL OPEN CHECKLIST
+
+1. VPS 서버 연결
+2. 도메인 DNS 연결
+3. SSL HTTPS 적용
+4. PostgreSQL 운영 연결
+5. Redis 운영 연결
+6. OpenAI API KEY 입력
+7. PG 결제 KEY 입력
+8. OBS 방송 연결
+9. 앱스토어 배포
+10. 실제 서비스 오픈

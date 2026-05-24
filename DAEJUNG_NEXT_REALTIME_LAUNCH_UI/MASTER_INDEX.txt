@@ -1,0 +1,11 @@
+
+DAEJUNG NEXT REALTIME LAUNCH UI
+Generated: 2026-05-24 01:57:32.451609
+
+추가 항목:
+- 글로벌 메인홈
+- AI 아바타 메인
+- 라이브커머스 UI
+- 투자자/PT 모드
+- 관리자 통합 패널
+- 실시간 글로벌 UI

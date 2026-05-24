@@ -1,0 +1,7 @@
+[ AI SYSTEM ]
+
+- OpenAI API KEY
+- AI 상담
+- AI 추천
+- AI 검색
+- AI HOST

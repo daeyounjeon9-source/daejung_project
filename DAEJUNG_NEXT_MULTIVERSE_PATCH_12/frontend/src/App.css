@@ -1,0 +1,269 @@
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  background:#050816;
+  color:white;
+  font-family:Arial, Helvetica, sans-serif;
+  overflow-x:hidden;
+}
+
+.app{
+  padding:40px;
+  background:
+    radial-gradient(circle at top left,#3154d0,transparent 30%),
+    radial-gradient(circle at bottom right,#ad3eff,transparent 30%),
+    #050816;
+}
+
+.multiverse-navbar{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom:40px;
+}
+
+.multiverse-logo{
+  font-size:48px;
+  font-weight:bold;
+}
+
+.multiverse-navbar nav{
+  display:flex;
+  gap:20px;
+}
+
+.multiverse-navbar nav a{
+  color:white;
+  text-decoration:none;
+}
+
+.multiverse-connect{
+  padding:14px 24px;
+  border:none;
+  border-radius:14px;
+}
+
+.multiverse-hero{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:40px;
+  align-items:center;
+  margin-bottom:40px;
+}
+
+.multiverse-chip{
+  display:inline-block;
+  padding:10px 18px;
+  border-radius:999px;
+  background:rgba(255,255,255,0.1);
+}
+
+.multiverse-hero h1{
+  font-size:128px;
+  margin:24px 0;
+}
+
+.multiverse-hero p{
+  max-width:900px;
+  line-height:1.8;
+  color:#dde3ff;
+}
+
+.multiverse-buttons{
+  display:flex;
+  gap:20px;
+  margin-top:30px;
+}
+
+.multiverse-buttons button{
+  padding:16px 28px;
+  border:none;
+  border-radius:18px;
+}
+
+.multiverse-ring{
+  width:820px;
+  height:820px;
+  border-radius:50%;
+  margin:auto;
+  background:
+    radial-gradient(circle,#00ffff44,transparent 70%);
+}
+
+.multiverse-core{
+  width:480px;
+  height:480px;
+  border-radius:50%;
+  margin:auto;
+  margin-top:-650px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:96px;
+  font-weight:bold;
+  background:radial-gradient(circle,#00ffff,#7f42ff);
+}
+
+.multiverse-grid{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:24px;
+  margin-bottom:40px;
+}
+
+.multiverse-card{
+  padding:50px;
+  border-radius:40px;
+  background:#10192f;
+}
+
+.multiverse-card h2{
+  margin-top:16px;
+  font-size:60px;
+}
+
+.multiverse-market{
+  display:grid;
+  grid-template-columns:repeat(5,1fr);
+  gap:24px;
+  margin-bottom:40px;
+}
+
+.multiverse-item{
+  padding:24px;
+  border-radius:24px;
+  background:#121b34;
+}
+
+.multiverse-thumb{
+  height:220px;
+  border-radius:18px;
+  margin-bottom:20px;
+  background:linear-gradient(135deg,#00d2ff,#7d42ff);
+}
+
+.multiverse-item button{
+  width:100%;
+  padding:14px;
+  border:none;
+  border-radius:14px;
+  margin-top:20px;
+}
+
+.multiverse-system-grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:24px;
+  margin-bottom:40px;
+}
+
+.multiverse-ai,
+.multiverse-stream,
+.multiverse-defense{
+  padding:44px;
+  border-radius:40px;
+  background:#10172d;
+}
+
+.multiverse-ai-core{
+  width:280px;
+  height:280px;
+  border-radius:50%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin:auto;
+  margin-bottom:24px;
+  font-size:100px;
+  font-weight:bold;
+  background:radial-gradient(circle,#00ffff,#7d42ff);
+}
+
+.multiverse-bars{
+  display:flex;
+  justify-content:center;
+  gap:10px;
+  margin-top:24px;
+}
+
+.multiverse-bars span{
+  width:12px;
+  height:12px;
+  border-radius:50%;
+  background:#00ffff;
+}
+
+.multiverse-stream-head{
+  display:flex;
+  justify-content:space-between;
+  margin-bottom:24px;
+}
+
+.multiverse-live{
+  padding:8px 14px;
+  border-radius:999px;
+  background:red;
+}
+
+.multiverse-money{
+  margin-top:24px;
+  font-size:74px;
+  font-weight:bold;
+  color:#7df4ff;
+}
+
+.multiverse-defense-head{
+  display:flex;
+  justify-content:space-between;
+  margin-bottom:24px;
+}
+
+.multiverse-safe{
+  padding:8px 14px;
+  border-radius:999px;
+  background:#00cc66;
+}
+
+.multiverse-defense ul{
+  margin-top:24px;
+  padding-left:20px;
+  line-height:2;
+}
+
+.multiverse-admin{
+  padding:44px;
+  border-radius:40px;
+  background:#101932;
+}
+
+.multiverse-admin-grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:24px;
+  margin-top:28px;
+}
+
+.footer{
+  margin-top:60px;
+  text-align:center;
+  padding:40px;
+}
+
+@media(max-width:1700px){
+  .multiverse-hero,
+  .multiverse-grid,
+  .multiverse-market,
+  .multiverse-system-grid,
+  .multiverse-admin-grid{
+    grid-template-columns:1fr;
+  }
+
+  .multiverse-hero h1{
+    font-size:72px;
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "package": "DAEJUNG_NEXT_PART_05_SETTLEMENT_LEGAL_OPS",
+  "created": "2026-05-24",
+  "modules": [
+    "settlement",
+    "audit",
+    "admin-ui",
+    "policy",
+    "checklist"
+  ]
+}

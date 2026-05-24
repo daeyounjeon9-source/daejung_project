@@ -1,0 +1,269 @@
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  background:#050816;
+  color:white;
+  font-family:Arial, Helvetica, sans-serif;
+  overflow-x:hidden;
+}
+
+.app{
+  padding:40px;
+  background:
+    radial-gradient(circle at top left,#1e2e72,transparent 30%),
+    radial-gradient(circle at bottom right,#611b8d,transparent 30%),
+    #050816;
+}
+
+.infinity-header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom:40px;
+}
+
+.header-logo{
+  font-size:34px;
+  font-weight:bold;
+}
+
+.infinity-header nav{
+  display:flex;
+  gap:24px;
+}
+
+.infinity-header nav a{
+  color:white;
+  text-decoration:none;
+}
+
+.connect-btn{
+  padding:14px 24px;
+  border:none;
+  border-radius:14px;
+}
+
+.infinity-hero{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  align-items:center;
+  gap:40px;
+  margin-bottom:40px;
+}
+
+.hero-chip{
+  display:inline-block;
+  padding:10px 18px;
+  border-radius:999px;
+  background:rgba(255,255,255,0.1);
+}
+
+.infinity-hero h1{
+  font-size:86px;
+  margin:24px 0;
+}
+
+.infinity-hero p{
+  max-width:760px;
+  line-height:1.8;
+  color:#d5dcff;
+}
+
+.hero-actions{
+  display:flex;
+  gap:20px;
+  margin-top:30px;
+}
+
+.hero-actions button{
+  padding:16px 28px;
+  border:none;
+  border-radius:18px;
+}
+
+.planet-ring{
+  width:480px;
+  height:480px;
+  border-radius:50%;
+  margin:auto;
+  background:
+    radial-gradient(circle,#00ffff44,transparent 70%);
+}
+
+.planet-core{
+  width:280px;
+  height:280px;
+  border-radius:50%;
+  margin:auto;
+  margin-top:-380px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:58px;
+  font-weight:bold;
+  background:radial-gradient(circle,#00ffff,#7f42ff);
+}
+
+.infinity-grid{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:24px;
+  margin-bottom:40px;
+}
+
+.infinity-box{
+  padding:34px;
+  border-radius:28px;
+  background:#10192f;
+}
+
+.infinity-box h2{
+  margin-top:16px;
+  font-size:40px;
+}
+
+.products-grid{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:24px;
+  margin-bottom:40px;
+}
+
+.product-box{
+  padding:24px;
+  border-radius:24px;
+  background:#121b34;
+}
+
+.product-thumb{
+  height:220px;
+  border-radius:18px;
+  margin-bottom:20px;
+  background:linear-gradient(135deg,#00d2ff,#7d42ff);
+}
+
+.product-box button{
+  width:100%;
+  padding:14px;
+  border:none;
+  border-radius:14px;
+  margin-top:20px;
+}
+
+.system-layout{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:24px;
+  margin-bottom:40px;
+}
+
+.ai-infinity,
+.global-stream,
+.ultra-defense{
+  padding:32px;
+  border-radius:28px;
+  background:#10172d;
+}
+
+.ai-orb{
+  width:180px;
+  height:180px;
+  border-radius:50%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin:auto;
+  margin-bottom:24px;
+  font-size:58px;
+  font-weight:bold;
+  background:radial-gradient(circle,#00ffff,#7d42ff);
+}
+
+.signal-bars{
+  display:flex;
+  justify-content:center;
+  gap:10px;
+  margin-top:24px;
+}
+
+.signal-bars span{
+  width:12px;
+  height:12px;
+  border-radius:50%;
+  background:#00ffff;
+}
+
+.stream-head{
+  display:flex;
+  justify-content:space-between;
+  margin-bottom:24px;
+}
+
+.stream-badge{
+  padding:8px 14px;
+  border-radius:999px;
+  background:red;
+}
+
+.stream-money{
+  margin-top:24px;
+  font-size:44px;
+  font-weight:bold;
+  color:#7df4ff;
+}
+
+.defense-head{
+  display:flex;
+  justify-content:space-between;
+  margin-bottom:24px;
+}
+
+.safe-light{
+  padding:8px 14px;
+  border-radius:999px;
+  background:#00cc66;
+}
+
+.ultra-defense ul{
+  margin-top:24px;
+  padding-left:20px;
+  line-height:2;
+}
+
+.admin-core{
+  padding:40px;
+  border-radius:32px;
+  background:#101931;
+}
+
+.admin-grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:24px;
+  margin-top:28px;
+}
+
+.footer{
+  margin-top:60px;
+  text-align:center;
+  padding:40px;
+}
+
+@media(max-width:1200px){
+  .infinity-hero,
+  .infinity-grid,
+  .products-grid,
+  .system-layout,
+  .admin-grid{
+    grid-template-columns:1fr;
+  }
+
+  .infinity-hero h1{
+    font-size:52px;
+  }
+}

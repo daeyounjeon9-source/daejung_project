@@ -1,0 +1,14 @@
+[ FINAL CHECKLIST ]
+
+1. VPS 연결
+2. 도메인 연결
+3. SSL HTTPS
+4. PostgreSQL 운영 연결
+5. Redis 연결
+6. OpenAI 연결
+7. PG 결제 연결
+8. OBS 방송 연결
+9. 상품 등록
+10. 관리자 운영
+11. 앱 배포
+12. 실제 서비스 오픈

@@ -1,0 +1,3600 @@
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/
+
+DAEJUNG_NEXT/
+├── frontend/
+│   ├── app/
+│   ├── ai/
+│   ├── admin/
+│   ├── finance/
+│   ├── streaming/
+│   ├── analytics/
+│   ├── security/
+│   ├── web3/
+│   └── recommendation/
+│
+├── backend/
+│   ├── api/
+│   ├── ai-engine/
+│   ├── audit/
+│   ├── auth/
+│   ├── logs/
+│   ├── distributed-node/
+│   ├── realtime/
+│   ├── finance-core/
+│   ├── security-core/
+│   └── data-engine/
+│
+├── enterprise/
+├── legal/
+├── investor/
+├── operation/
+└── expansion/

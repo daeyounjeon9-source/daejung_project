@@ -1,0 +1,12 @@
+PRODUCTION CHECKLIST
+
+1. VPS 연결
+2. PostgreSQL 운영 연결
+3. Redis 운영 연결
+4. Docker build
+5. Nginx start
+6. HTTPS SSL 적용
+7. OpenAI API KEY 입력
+8. PG사 API KEY 입력
+9. OBS 송출 연결
+10. 앱 배포

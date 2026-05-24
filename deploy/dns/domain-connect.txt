@@ -1,0 +1,8 @@
+DOMAIN:
+daejungnext.com
+
+A RECORD:
+SERVER_IP
+
+SSL:
+Let's Encrypt

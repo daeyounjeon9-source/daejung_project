@@ -1,0 +1,7 @@
+[ LIVE SYSTEM ]
+
+- OBS 연결
+- RTMP
+- HLS
+- 실시간 채팅
+- 방송 저장

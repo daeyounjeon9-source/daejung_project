@@ -1,0 +1,21 @@
+
+{
+  "classification":"OMEGA_BLACK",
+  "owner":"전대연",
+  "allowed_roles":["MASTER_OWNER"],
+  "blocked_roles":[
+    "STAFF",
+    "TESTER",
+    "OUTSOURCE",
+    "PARTNER",
+    "GENERAL_ADMIN"
+  ],
+  "security":{
+    "mfa_required":true,
+    "download_block":true,
+    "audit_logging":true,
+    "encrypted_storage":true,
+    "ip_restriction":true,
+    "zero_trust":true
+  }
+}

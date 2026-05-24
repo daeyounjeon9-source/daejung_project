@@ -1,0 +1,13 @@
+DAEJUNG NEXT
+FINAL REMAINING MASTER PACKAGE
+
+포함:
+- Auth Structure
+- Payment Structure
+- AI Structure
+- Live Structure
+- Security Structure
+- Docker Structure
+- Nginx Structure
+- Mobile Structure
+- Monitoring Structure

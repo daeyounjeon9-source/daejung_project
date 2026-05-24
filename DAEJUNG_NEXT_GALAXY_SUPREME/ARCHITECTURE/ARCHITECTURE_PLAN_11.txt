@@ -1,0 +1,10800 @@
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+
+
+DAEJUNG_NEXT/
+├── frontend/
+├── backend/
+├── ai/
+├── streaming/
+├── finance/
+├── audit/
+├── logs/
+├── analytics/
+├── recommendation/
+├── admin/
+├── enterprise/
+├── legal/
+├── operation/
+├── global/
+└── web3/
+

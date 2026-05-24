@@ -1,0 +1,12 @@
+{
+  "system": "DAEJUNG_NEXT_OMEGA_BLACK",
+  "auth_mode": "HASH_ONLY",
+  "master_access_enabled": true,
+  "password_storage": "SHA256_HASH",
+  "master_hash": "2b75572218c7dba5e40f306258dea2a53fe4f37be23ea3bf04ff2412721a402c",
+  "mfa_required": true,
+  "otp_required": true,
+  "audit_logging": true,
+  "failed_attempt_lock": true,
+  "zero_trust_enabled": true
+}

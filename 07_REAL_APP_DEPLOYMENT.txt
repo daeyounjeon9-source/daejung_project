@@ -1,0 +1,15 @@
+[ REAL APP ]
+
+Android:
+- Android Studio
+- Play Store 등록
+
+iOS:
+- Xcode
+- App Store 등록
+
+포함:
+- PUSH 알림
+- 앱 결제
+- LIVE 연결
+- AI 기능

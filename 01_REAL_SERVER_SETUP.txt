@@ -1,0 +1,24 @@
+[ REAL SERVER ]
+
+추천 VPS:
+- Vultr
+- AWS
+- Oracle Cloud
+- Hetzner
+
+권장 스펙:
+- 8~16 vCPU
+- 32~64GB RAM
+- Ubuntu 22.04
+- NVMe SSD
+
+설치:
+- Docker
+- Docker Compose
+- Nginx
+- PM2
+- PostgreSQL
+- Redis
+
+실행:
+docker compose up -d

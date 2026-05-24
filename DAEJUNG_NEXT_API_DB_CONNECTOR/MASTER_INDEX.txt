@@ -1,0 +1,12 @@
+DAEJUNG NEXT API DB CONNECTOR
+Generated: 2026-05-24 02:05:20.204369
+
+이번 추가:
+- PostgreSQL 스키마
+- 관리자 로그인 API
+- 상품 API
+- 주문 API
+- 정산 원장 API
+- 국가/도시/상품 분석 API
+- 잘 팔리는 상품/안 팔리는 상품 API
+- 보안 체크리스트

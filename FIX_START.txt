@@ -1,0 +1,14 @@
+
+DAEJUNG NEXT QUICK FIX
+
+1. Delete existing node_modules if present
+2. Open terminal in frontend folder
+
+npm install
+npm run dev
+
+3. Open:
+http://localhost:5173
+
+Main issue:
+Broken/incomplete node_modules optional bindings from Vite/Rolldown.

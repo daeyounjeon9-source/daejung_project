@@ -1,0 +1,12 @@
+[ FINAL CHECK ]
+
+1. VPS 구매
+2. 도메인 연결
+3. PostgreSQL 연결
+4. Redis 연결
+5. OpenAI 연결
+6. PG 연결
+7. OBS 연결
+8. 상품 등록
+9. 관리자 운영
+10. 앱 배포

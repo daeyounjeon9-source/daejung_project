@@ -1,0 +1,39 @@
+* { box-sizing: border-box; }
+html, body { margin: 0; min-height: 100%; background: #070914; color: #fff; font-family: Arial, Helvetica, sans-serif; }
+button { cursor: pointer; border: 0; }
+.dn-root { min-height: 100vh; background: radial-gradient(circle at top left, rgba(90,110,255,.34), transparent 34%), linear-gradient(135deg, #070914 0%, #111827 54%, #06070d 100%); }
+.dn-hero { padding: 28px 44px 48px; }
+.dn-nav { display: flex; align-items: center; justify-content: space-between; margin-bottom: 56px; }
+.dn-logo { font-weight: 900; letter-spacing: 2px; font-size: 22px; }
+.dn-nav-links { display: flex; gap: 22px; color: #b8c2ff; font-size: 13px; font-weight: 700; }
+.dn-hero-grid { display: grid; grid-template-columns: 1.1fr .9fr; gap: 36px; align-items: center; }
+.dn-badge { display: inline-flex; padding: 9px 13px; border-radius: 999px; background: rgba(111,132,255,.18); color: #cfd7ff; font-size: 12px; font-weight: 800; margin-bottom: 18px; }
+.dn-copy h1 { font-size: clamp(44px, 6vw, 82px); line-height: 1.02; margin: 0 0 22px; letter-spacing: -3px; }
+.dn-copy p { max-width: 690px; color: #c9d2ee; font-size: 18px; line-height: 1.75; }
+.dn-actions { display: flex; gap: 14px; margin-top: 28px; }
+.dn-actions button { padding: 15px 22px; border-radius: 18px; background: #fff; color: #0b1020; font-weight: 900; box-shadow: 0 18px 50px rgba(255,255,255,.14); }
+.dn-actions .dn-secondary { background: rgba(255,255,255,.1); color: #fff; border: 1px solid rgba(255,255,255,.16); }
+.dn-live-card { border: 1px solid rgba(255,255,255,.16); background: rgba(255,255,255,.08); border-radius: 34px; padding: 20px; box-shadow: 0 30px 80px rgba(0,0,0,.38); backdrop-filter: blur(18px); }
+.dn-live-top { display: flex; align-items: center; gap: 9px; font-weight: 900; color: #ffdee2; margin-bottom: 14px; }
+.dn-live-dot { width: 10px; height: 10px; border-radius: 50%; background: #ff3358; box-shadow: 0 0 22px #ff3358; }
+.dn-video-box { min-height: 360px; border-radius: 26px; background: linear-gradient(145deg, rgba(69,89,255,.45), rgba(10,14,30,.95)); display: grid; place-items: center; text-align: center; padding: 26px; position: relative; overflow: hidden; }
+.dn-host { width: 132px; height: 132px; border-radius: 42px; display: grid; place-items: center; font-weight: 900; background: linear-gradient(135deg, #fff, #97a7ff); color: #111827; box-shadow: 0 28px 60px rgba(0,0,0,.28); z-index: 1; }
+.dn-wave { position: absolute; width: 330px; height: 330px; border-radius: 50%; border: 1px solid rgba(255,255,255,.18); animation: pulse 3s infinite; }
+.dn-video-box p { z-index: 1; color: #e8ecff; font-weight: 700; }
+.dn-mini-row { display: flex; justify-content: space-between; margin-top: 16px; padding: 14px; border-radius: 18px; background: rgba(255,255,255,.08); }
+.dn-stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; padding: 0 44px 36px; }
+.dn-stat, .dn-panel, .dn-product { border: 1px solid rgba(255,255,255,.12); background: rgba(255,255,255,.07); border-radius: 26px; padding: 22px; }
+.dn-stat span { color: #aeb8dc; display: block; margin-bottom: 10px; }
+.dn-stat strong { font-size: 25px; }
+.dn-section, .dn-system-grid { padding: 20px 44px 48px; }
+.dn-section-head h2, .dn-panel h2 { margin: 0 0 10px; font-size: 30px; }
+.dn-section-head p, .dn-panel p { color: #b9c3e6; line-height: 1.65; }
+.dn-products { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 22px; }
+.dn-product-img { height: 170px; border-radius: 22px; background: linear-gradient(135deg, rgba(255,255,255,.94), rgba(144,159,255,.75)); color: #111827; font-weight: 900; display: grid; place-items: center; margin-bottom: 18px; }
+.dn-product h3 { margin: 0 0 8px; font-size: 21px; }
+.dn-product p { color: #fff; font-weight: 900; font-size: 22px; margin: 0 0 18px; }
+.dn-product-bottom { display: flex; align-items: center; justify-content: space-between; color: #b8c2e8; }
+.dn-product-bottom button { padding: 10px 14px; border-radius: 14px; font-weight: 900; background: #7c8cff; color: #fff; }
+.dn-system-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+@keyframes pulse { 0% { transform: scale(.8); opacity: .9; } 100% { transform: scale(1.35); opacity: 0; } }
+@media (max-width: 900px) { .dn-hero { padding: 22px; } .dn-nav, .dn-nav-links { align-items: flex-start; flex-direction: column; } .dn-hero-grid, .dn-stats, .dn-products, .dn-system-grid { grid-template-columns: 1fr; padding-left: 22px; padding-right: 22px; } .dn-copy h1 { letter-spacing: -1px; } }
