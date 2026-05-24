@@ -1,0 +1,1 @@
+export const CustomerService88=()=>({module:88,analytics:true});

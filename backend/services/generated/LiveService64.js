@@ -1,0 +1,1 @@
+export const LiveService64=()=>({module:64,live:true});

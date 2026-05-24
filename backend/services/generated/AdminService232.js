@@ -1,0 +1,1 @@
+export const AdminService232=()=>({module:232,admin:true});

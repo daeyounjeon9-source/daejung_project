@@ -1,0 +1,1 @@
+export default function LiveModule232(){return <section>LIVE MODULE 232</section>;}

@@ -1,0 +1,1 @@
+export default function VIPModule121(){return <section>VIP MODULE 121</section>;}

@@ -1,0 +1,1 @@
+export const AdminService5=()=>({module:5,admin:true});

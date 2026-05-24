@@ -1,0 +1,8 @@
+export const OmegaService8 = () => ({
+  module:8,
+  optimization:true,
+  analytics:true,
+  retention:true,
+  revenue:true,
+  growth:true
+});

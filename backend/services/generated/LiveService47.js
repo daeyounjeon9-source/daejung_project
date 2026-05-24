@@ -1,0 +1,1 @@
+export const LiveService47=()=>({module:47,live:true});

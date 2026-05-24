@@ -1,0 +1,1 @@
+export const VIPService61=()=>({module:61,vip:true});

@@ -1,0 +1,1 @@
+export const AdminService64=()=>({module:64,admin:true});

@@ -1,0 +1,1 @@
+export const MarketingService154=()=>({module:154,marketing:true});

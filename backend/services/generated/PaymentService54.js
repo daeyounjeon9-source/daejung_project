@@ -1,0 +1,8 @@
+export const PaymentService54 = () => ({
+  module:54,
+  payment:true,
+  analytics:true,
+  protection:true,
+  settlement:true,
+  optimization:true
+});

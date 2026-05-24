@@ -1,0 +1,1 @@
+export default function AdminModule10(){return <section>ADMIN MODULE 10</section>;}

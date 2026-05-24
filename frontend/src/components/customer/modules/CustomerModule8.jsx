@@ -1,0 +1,1 @@
+export default function CustomerModule8(){return <section>CUSTOMER MODULE 8</section>;}

@@ -1,0 +1,1 @@
+export const AdminService122=()=>({module:122,admin:true});

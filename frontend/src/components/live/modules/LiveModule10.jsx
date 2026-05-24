@@ -1,0 +1,1 @@
+export default function LiveModule10(){return <section>LIVE MODULE 10</section>;}

@@ -1,0 +1,8 @@
+export const AutomationService566 = () => ({
+  module:566,
+  automation:true,
+  analytics:true,
+  optimization:true,
+  recommendation:true,
+  revenue:true
+});

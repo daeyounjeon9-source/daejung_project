@@ -1,0 +1,1 @@
+export default function LiveModule320(){return <section>LIVE MODULE 320</section>;}
